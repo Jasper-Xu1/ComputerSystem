@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1589889293 source:e:\mycppspace\10computersystem\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<string>
+	"Identity.h"
+	"student.h"
+	"teacher.h"
+	"manager.h"
+	"globalFile.h"
+
+1589620836 source:e:\mycppspace\10computersystem\src\identity.cpp
+	"Identity.h"
+
+1589620836 e:\mycppspace\10computersystem\include\identity.h
+	<iostream>
+	<string>
+
+1589881172 source:e:\mycppspace\10computersystem\src\student.cpp
+	"student.h"
+
+1589813646 e:\mycppspace\10computersystem\include\student.h
+	<iostream>
+	<windows.h>
+	<vector>
+	<fstream>
+	"computerRoom.h"
+	"Identity.h"
+	"globalFile.h"
+	"orderFile.h"
+
+1589871803 source:e:\mycppspace\10computersystem\src\manager.cpp
+	"manager.h"
+
+1589789662 e:\mycppspace\10computersystem\include\manager.h
+	<fstream>
+	<vector>
+	<windows.h>
+	<algorithm>
+	"Identity.h"
+	"student.h"
+	"teacher.h"
+	"globalFile.h"
+	"computerRoom.h"
+
+1589888791 source:e:\mycppspace\10computersystem\src\teacher.cpp
+	"teacher.h"
+
+1589888567 e:\mycppspace\10computersystem\include\teacher.h
+	<iostream>
+	<windows.h>
+	<vector>
+	"Identity.h"
+	"orderFile.h"
+	"computerRoom.h"
+	"Identity.h"
+	"globalFile.h"
+
+1589624459 e:\mycppspace\10computersystem\include\globalfile.h
+
+1589787745 e:\mycppspace\10computersystem\include\computerroom.h
+	<iostream>
+
+1589818936 e:\mycppspace\10computersystem\include\orderfile.h
+	<iostream>
+	<vector>
+	<map>
+	<fstream>
+	<windows.h>
+	"globalFile.h"
+
+1589874834 source:e:\mycppspace\10computersystem\src\orderfile.cpp
+	"orderFile.h"
+
+1589889293 source:e:\mycppspace\computersystem\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<string>
+	"Identity.h"
+	"student.h"
+	"teacher.h"
+	"manager.h"
+	"globalFile.h"
+
+1589620836 e:\mycppspace\computersystem\include\identity.h
+	<iostream>
+	<string>
+
+1589813646 e:\mycppspace\computersystem\include\student.h
+	<iostream>
+	<windows.h>
+	<vector>
+	<fstream>
+	"computerRoom.h"
+	"Identity.h"
+	"globalFile.h"
+	"orderFile.h"
+
+1589787745 e:\mycppspace\computersystem\include\computerroom.h
+	<iostream>
+
+1589624459 e:\mycppspace\computersystem\include\globalfile.h
+
+1589818936 e:\mycppspace\computersystem\include\orderfile.h
+	<iostream>
+	<vector>
+	<map>
+	<fstream>
+	<windows.h>
+	"globalFile.h"
+
+1589888567 e:\mycppspace\computersystem\include\teacher.h
+	<iostream>
+	<windows.h>
+	<vector>
+	"Identity.h"
+	"orderFile.h"
+	"computerRoom.h"
+	"Identity.h"
+	"globalFile.h"
+
+1589789662 e:\mycppspace\computersystem\include\manager.h
+	<fstream>
+	<vector>
+	<windows.h>
+	<algorithm>
+	"Identity.h"
+	"student.h"
+	"teacher.h"
+	"globalFile.h"
+	"computerRoom.h"
+
+1589620836 source:e:\mycppspace\computersystem\src\identity.cpp
+	"Identity.h"
+
+1589871803 source:e:\mycppspace\computersystem\src\manager.cpp
+	"manager.h"
+
+1589874834 source:e:\mycppspace\computersystem\src\orderfile.cpp
+	"orderFile.h"
+
+1589881172 source:e:\mycppspace\computersystem\src\student.cpp
+	"student.h"
+
+1589888791 source:e:\mycppspace\computersystem\src\teacher.cpp
+	"teacher.h"
+
